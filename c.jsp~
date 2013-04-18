@@ -1,0 +1,12 @@
+
+<html>time up! 
+<script language="JavaScript">
+var time = null
+function go() {
+window.location = 'form.jsp'
+}
+</script>
+<body onload="timer=setTimeout('go()',4000)">
+</body>
+</html>
+

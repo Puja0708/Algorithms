@@ -1,0 +1,14 @@
+
+
+<script language="JavaScript">
+var time = null
+function go() {
+window.location = 'f.jsp'
+}
+</script>
+<body onload="timer=setTimeout('go()',4000)">
+</body>
+
+
+
+
